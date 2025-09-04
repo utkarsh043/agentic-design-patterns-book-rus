@@ -93,8 +93,6 @@
 
 - [Google Docs](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic#ftnt_ref1)
 
-### 💝 Благотворительность
-
 ### 📖 Бумажное издание
 
 - **Название**: Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems
@@ -102,6 +100,8 @@
 - **Издательство**: Springer
 - **ISBN**: 978-3032014018
 - [Amazon](https://www.amazon.com/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018/)
+
+#### 💝 Благотворительность
 
 > **Важно**: Все авторские отчисления от продажи книги будут пожертвованы в фонд [Save the Children](https://www.savethechildren.org/)
 
